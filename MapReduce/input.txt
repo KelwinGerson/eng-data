@@ -1,0 +1,6 @@
+Hello world
+Python is great
+MapReduce is powerful
+Python and MapReduce
+Hello again
+Python programming
